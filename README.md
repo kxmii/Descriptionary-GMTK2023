@@ -1,7 +1,7 @@
 # Descriptionary-GMTK2023
 Submission for the 48 hour Gamemaker's Toolkit Gamejam.
 Designed the game, art and created much of the writing.
-
+We ended up being one of the 20 winners. Featured in this video: https://www.youtube.com/watch?v=tYxZ_LOlFnU
 
 # Download:
 https://fingerclap.itch.io/descriptionary
