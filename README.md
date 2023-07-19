@@ -5,7 +5,9 @@ Submission for the 48 hour Gamemaker's Toolkit Gamejam.
 Designed the game, art and created much of the writing.
 
 
-# Download:
+# The Game:
+Play the game here: 
+
 https://fingerclap.itch.io/descriptionary
 
 ![preview1](https://github.com/kxmii/Descriptionary-GMTK2023/assets/126708296/b99aed02-69de-408d-b700-fe45ed774066)
