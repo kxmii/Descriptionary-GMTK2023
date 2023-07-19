@@ -5,7 +5,7 @@ Submission for the 48 hour Gamemaker's Toolkit Gamejam.
 Designed the game, art and created much of the writing.
 
 
-# The Game:
+# Play:
 Play the game here: 
 
 https://fingerclap.itch.io/descriptionary
