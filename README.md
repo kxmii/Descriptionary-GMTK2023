@@ -6,9 +6,7 @@ Designed the game, art and created much of the writing.
 
 
 # Play:
-Play the game here: 
-
-https://fingerclap.itch.io/descriptionary
+Play the game here: https://fingerclap.itch.io/descriptionary
 
 ![preview1](https://github.com/kxmii/Descriptionary-GMTK2023/assets/126708296/b99aed02-69de-408d-b700-fe45ed774066)
 ![preview2](https://github.com/kxmii/Descriptionary-GMTK2023/assets/126708296/ab769861-a307-46ef-acd4-b49cf32bbae5)
